@@ -1,2 +1,2 @@
-# imc-app
-App que calcula o imc da pessoa.
+# Cálculo de IMC
+Esse é um App simples para calcular de IMC
